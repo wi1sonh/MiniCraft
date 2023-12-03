@@ -400,3 +400,18 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Custom: hyj
+build
+debug
+release
+
+.vscode
+.vs
+CMakeSettings.json
+
+# Makefile 和 vcxproj 需要保留？
+Makefile
+MiniCraft.vcxproj
+MiniCraft.vcxproj.filters

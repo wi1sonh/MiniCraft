@@ -10,6 +10,7 @@ SOURCES += \
     $$PWD/la.cpp \
     $$PWD/drawable.cpp \
     $$PWD/camera.cpp \
+    $$PWD/stb_image.cpp \
     $$PWD/scene/cube.cpp \
     $$PWD/scene/scene.cpp \
     $$PWD/scene/transform.cpp
@@ -22,6 +23,7 @@ HEADERS += \
     $$PWD/utils.h \
     $$PWD/drawable.h \
     $$PWD/camera.h \
+    $$PWD/stb_image.h \
     $$PWD/scene/cube.h \
     $$PWD/scene/scene.h \
     $$PWD/scene/transform.h
